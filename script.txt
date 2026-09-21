@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# 1. Print a welcome message
+echo "Hello! This is your first shell script."
+
+# 2. Print the current date and time
+echo "Today's date and time is: $(date)"
+
+# 3. Print the current location
+echo "You are currently working in: $(pwd)"
